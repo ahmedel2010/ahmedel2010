@@ -5,14 +5,16 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Computer+Science+Graduate+%F0%9F%8E%93;UI%2FUX+Passionate+Builder+%F0%9F%8E%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+Specialist+%E2%9A%9B%EF%B8%8F;Computer+Science+Graduate+%F0%9F%8E%93;UI%2FUX+Passionate+Builder+%F0%9F%8E%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ahmedel2010&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Role-Frontend_Developer-2563eb?style=for-the-badge&labelColor=0d1117" alt="Role" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/ahmedel2010?style=for-the-badge&color=6366f1&labelColor=1e1e2e&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/badge/Location-Egypt_%F0%9F%87%AA%F0%9F%87%AC-059669?style=for-the-badge&labelColor=0d1117" alt="Location" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-React%20%7C%20TypeScript%20%7C%20UI%2FUX-61DAFB?style=for-the-badge&labelColor=0d1117" alt="Focus" />
 
 </div>
 
@@ -27,7 +29,7 @@ const ahmed = {
   education:         "B.Sc. Computer Science & Information",
   location:          "Egypt 🇪🇬",
   languages:         ["Arabic (Native)", "English (Professional)"],
-  focus:             ["React.js", "Next.js", "TypeScript", "UI/UX"],
+  focus:             ["React.js", "TypeScript", "UI/UX", "Animations"],
   currentlyLearning: "Advanced React Patterns & Performance Optimization",
   funFact:           "I turn coffee ☕ into pixel-perfect UIs 🎨",
 };
@@ -48,8 +50,8 @@ const ahmed = {
 ### ⚛️ Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 ### 🎨 Styling & UI
@@ -84,15 +86,7 @@ const ahmed = {
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedel2010&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
-</div>
-
----
 
 ## 📈 Activity Graph
 
